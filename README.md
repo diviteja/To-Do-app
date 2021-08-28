@@ -65,22 +65,6 @@ To undone a task, click on "undo" Icon,
 
 ![](https://github.com/schadokar/go-to-do-app/blob/master/images/createTask.PNG)
 
-You'll notice on completion of task, card's bottom line color changed from green to yellow.
-
-### Delete a task
-
-To delete a task, click on "delete" Icon.
-
-![](https://github.com/schadokar/go-to-do-app/blob/master/images/deletetask.PNG)
-
----
-
-# Author  
-
-#### :sun_with_face: Shubham Kumar Chadokar  
-
-I am software engineer and love to write articles and tutorials on golang, blockchain, and nodejs.  
-Please checkout my other articles on :link: https://schadokar.dev :tada:
 
 # References
 
@@ -92,4 +76,4 @@ https://vkt.sh/go-mongodb-driver-cookbook/
 
 MIT License
 
-Copyright (c) 2019 Shubham Chadokar
+Copyright (c) 2021 Pavan Teja 
